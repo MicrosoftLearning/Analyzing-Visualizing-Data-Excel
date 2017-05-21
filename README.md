@@ -10,7 +10,7 @@ Throughout the course you will use examples and datasets provided through text f
 
 These datasets/examples do not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use these resources for your internal, reference purposes.
 
-The workbooks and related data are provided by [obviEnce](www.obvience.com). 
+The workbooks and related data are provided by [obviEnce](http://www.obvience.com). 
 
 ObviEnce is an ISV and an Intellectual Property (IP) Incubator focused on Microsoft Business Intelligence. ObviEnce works closely with Microsoft to develop best practices and thought leadership for jump-starting and deploying Microsoft Business Intelligence solutions.
 
